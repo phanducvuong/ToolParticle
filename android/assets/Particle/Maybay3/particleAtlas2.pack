@@ -1,0 +1,214 @@
+particleAtlas2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo005
+  rotate: false
+  xy: 2, 2
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+ui40_map_ST01
+  rotate: false
+  xy: 695, 214
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+ui40_XuanGuan_xx
+  rotate: false
+  xy: 91, 192
+  size: 122, 58
+  orig: 122, 58
+  offset: 0, 0
+  index: -1
+ui40_XuanGuan12
+  rotate: false
+  xy: 1149, 104
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 1081, 104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ranking
+  rotate: false
+  xy: 865, 27
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+ui40_XuanGuan_YinJiAnNiu
+  rotate: false
+  xy: 729, 214
+  size: 140, 35
+  orig: 140, 35
+  offset: 0, 0
+  index: -1
+ui40_map_SST02
+  rotate: false
+  xy: 851, 115
+  size: 109, 74
+  orig: 109, 74
+  offset: 0, 0
+  index: -1
+shengli3
+  rotate: false
+  xy: 376, 134
+  size: 161, 117
+  orig: 161, 117
+  offset: 0, 0
+  index: -1
+ui40_map_SST01
+  rotate: false
+  xy: 192, 138
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+shengli2
+  rotate: false
+  xy: 588, 27
+  size: 181, 95
+  orig: 181, 95
+  offset: 0, 0
+  index: -1
+043
+  rotate: false
+  xy: 1067, 172
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ui004
+  rotate: false
+  xy: 873, 193
+  size: 190, 46
+  orig: 190, 46
+  offset: 0, 0
+  index: -1
+ui40_XuanGuan8
+  rotate: false
+  xy: 1135, 180
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+ui40_map_SST04
+  rotate: false
+  xy: 695, 126
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+075
+  rotate: false
+  xy: 2, 192
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+shengli1
+  rotate: false
+  xy: 964, 27
+  size: 234, 73
+  orig: 234, 73
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 217, 191
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+wsparticle37
+  rotate: false
+  xy: 1013, 104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+arrow2
+  rotate: false
+  xy: 51, 192
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+thj
+  rotate: false
+  xy: 541, 134
+  size: 150, 98
+  orig: 150, 98
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 456, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui40_map_ST02
+  rotate: false
+  xy: 1149, 141
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+ui005
+  rotate: false
+  xy: 324, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+034
+  rotate: false
+  xy: 695, 2
+  size: 508, 21
+  orig: 508, 21
+  offset: 0, 0
+  index: -1
+ui40_map_SST03
+  rotate: false
+  xy: 773, 27
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+xinsholibao1
+  rotate: false
+  xy: 253, 138
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+arrow1
+  rotate: false
+  xy: 787, 115
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+0022
+  rotate: false
+  xy: 964, 104
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+shengli4
+  rotate: false
+  xy: 192, 2
+  size: 128, 132
+  orig: 128, 132
+  offset: 0, 0
+  index: -1
